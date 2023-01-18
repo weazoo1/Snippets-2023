@@ -9,6 +9,6 @@ This repository also documents my first months as a programmer (2022/12/13).
 
 Important Articles I Must Read
 
-https://www.lua.org/manual/5.4/
+https://www.lua.org/manual/5.4/ - 
 https://devdocs.io/javascript/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
